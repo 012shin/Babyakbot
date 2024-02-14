@@ -2,8 +2,8 @@ import streamlit as st
 from openai import OpenAI
 from pinecone import Pinecone
 
-client = OpenAI(api_key = st.secrets['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'])
-pc = Pinecone(api_key = st.secrets['f44441da-d692-46e2-aec4-4f348ffa6bde'])
+client = OpenAI(api_key = st.secrets["OPEN_API_KEY"])
+pc = Pinecone(api_key = st.secrets["PINECONE_API_KEY"])
 
 if "openai_model" not in st.session_state:
     st.session_state.openai_model = "gpt-4-1106-preview"
