@@ -1,6 +1,6 @@
 # 고려대학교 밥약봇 호돌이
 
-![고려대학교 밥약봇 호돌이]<img width="416" alt="호돌이" src="https://github.com/012shin/Babyakbot/assets/89186881/bbd5944d-3a2c-41b4-acbc-d2e8493d99d7">
+!<img width="416" alt="호돌이" src="https://github.com/012shin/Babyakbot/assets/89186881/bbd5944d-3a2c-41b4-acbc-d2e8493d99d7">
 
 
 
