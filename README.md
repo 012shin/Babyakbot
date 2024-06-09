@@ -1,7 +1,8 @@
 # 고려대학교 밥약봇 호돌이
 
-![고려대학교 밥약봇 호돌이](<img width="416" alt="호돌이" src="https://github.com/012shin/Babyakbot/assets/89186881/f8216cb9-3ef4-4fc4-aad9-dfbd2e43c586">
-)
+![고려대학교 밥약봇 호돌이]<img width="416" alt="호돌이" src="https://github.com/012shin/Babyakbot/assets/89186881/bbd5944d-3a2c-41b4-acbc-d2e8493d99d7">
+
+
 
 ## 기획배경
 고려대학교에는 밥약이라는 선후배간의 문화가 있는데, 동기들이 밥약장소를 결정함에 있어 어려워하는 것을 보고, 만들어볼까? 라는 생각이 들어 만들어보게 되었다.
